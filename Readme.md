@@ -23,4 +23,4 @@ The Caesar Cipher is one of the simplest and most widely known encryption techni
 
 1. Open the application in your web browser.
 2. Enter the text you want to encrypt or decrypt in the input field.
-3. Specify the shift value (a positive or negative integer).
+3. Specify the shift value (Between 1-25).
